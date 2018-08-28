@@ -1,0 +1,14 @@
+#container {
+    min-width: 300px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(39, 37, 37)
+}
+
+a:hover {
+  color:red;
+}

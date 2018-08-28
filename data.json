@@ -1,0 +1,332 @@
+{
+	"Ano 2018": {
+		"Janeiro": {
+			"Behavior": 0.9,
+			"Social Circumstances": 0.59,
+			"Genetics & Biology": 0.25,
+			"Medical Care": 0.15,
+			"Health Literacy": 0.67,
+			"Access": 0.99,
+			"Environment": 0.81
+		},
+		"Fevereiro": {
+			"Behavior": 0.15,
+			"Social Circumstances": 0.23,
+			"Genetics & Biology": 0.07,
+			"Medical Care": 0.81,
+			"Health Literacy": 0.39,
+			"Access": 0.84,
+			"Environment": 1
+		},
+		"Marco": {
+			"Behavior": 0.38,
+			"Social Circumstances": 0.34,
+			"Genetics & Biology": 0.46,
+			"Medical Care": 0.89,
+			"Health Literacy": 0.61,
+			"Access": 0.3,
+			"Environment": 0.6
+		},
+		"Abril": {
+			"Behavior": 0.33,
+			"Social Circumstances": 0.83,
+			"Genetics & Biology": 0.89,
+			"Medical Care": 0.22,
+			"Health Literacy": 0.88,
+			"Access": 0.55,
+			"Environment": 0.25
+		},
+		"Maio": {
+			"Behavior": 0.62,
+			"Social Circumstances": 0.3,
+			"Genetics & Biology": 0.86,
+			"Medical Care": 0.55,
+			"Health Literacy": 0.32,
+			"Access": 0.18,
+			"Environment": 0.28
+		},
+		"Junho": {
+			"Behavior": 0.33,
+			"Social Circumstances": 0.34,
+			"Genetics & Biology": 0.89,
+			"Medical Care": 0.93,
+			"Health Literacy": 0.89,
+			"Access": 0.74,
+			"Environment": 0.73
+		},
+		"Julho": {
+			"Behavior": 0.83,
+			"Social Circumstances": 0.74,
+			"Genetics & Biology": 0.31,
+			"Medical Care": 0.24,
+			"Health Literacy": 0.6,
+			"Access": 0.58,
+			"Environment": 0.46
+		},
+		"Agosto": {
+			"Behavior": 0.93,
+			"Social Circumstances": 0.29,
+			"Genetics & Biology": 0.69,
+			"Medical Care": 0.36,
+			"Health Literacy": 0.24,
+			"Access": 0.48,
+			"Environment": 0.39
+		},
+		"Setembro": {
+			"Behavior": 0.8,
+			"Social Circumstances": 0.46,
+			"Genetics & Biology": 0.92,
+			"Medical Care": 0.94,
+			"Health Literacy": 0.63,
+			"Access": 0.89,
+			"Environment": 0.96
+		},
+		"Outubro": {
+			"Behavior": 0.77,
+			"Social Circumstances": 0.37,
+			"Genetics & Biology": 0.6,
+			"Medical Care": 0.33,
+			"Health Literacy": 0.57,
+			"Access": 0.41,
+			"Environment": 0.33
+		},
+		"Novembro": {
+			"Behavior": 0.32,
+			"Social Circumstances": 0.95,
+			"Genetics & Biology": 0.86,
+			"Medical Care": 0.26,
+			"Health Literacy": 0.58,
+			"Access": 0.6,
+			"Environment": 0.71
+		},
+		"Dezembro": {
+			"Behavior": 0.52,
+			"Social Circumstances": 0.59,
+			"Genetics & Biology": 0.21,
+			"Medical Care": 0.19,
+			"Health Literacy": 0.43,
+			"Access": 0.88,
+			"Environment": 0.69
+		}
+	},
+	"Ano 2017": {
+		"Janeiro": {
+			"Behavior": 0.72,
+			"Social Circumstances": 0.21,
+			"Genetics & Biology": 0.41,
+			"Medical Care": 0.77,
+			"Health Literacy": 0.58,
+			"Access": 0.25,
+			"Environment": 0.56
+		},
+		"Fevereiro": {
+			"Behavior": 0.62,
+			"Social Circumstances": 0.84,
+			"Genetics & Biology": 0.08,
+			"Medical Care": 0.42,
+			"Health Literacy": 0.46,
+			"Access": 0.35,
+			"Environment": 0.34
+		},
+		"Marco": {
+			"Behavior": 0.39,
+			"Social Circumstances": 0.75,
+			"Genetics & Biology": 0.78,
+			"Medical Care": 0.93,
+			"Health Literacy": 0.96,
+			"Access": 0.79,
+			"Environment": 0.39
+		},
+		"Abril": {
+			"Behavior": 0.65,
+			"Social Circumstances": 0.88,
+			"Genetics & Biology": 0.58,
+			"Medical Care": 0.49,
+			"Health Literacy": 0.74,
+			"Access": 0.66,
+			"Environment": 0.35
+		},
+		"Maio": {
+			"Behavior": 0.69,
+			"Social Circumstances": 0.2,
+			"Genetics & Biology": 0.54,
+			"Medical Care": 0.55,
+			"Health Literacy": 0.8,
+			"Access": 0.55,
+			"Environment": 0.16
+		},
+		"Junho": {
+			"Behavior": 0.16,
+			"Social Circumstances": 0.98,
+			"Genetics & Biology": 0.48,
+			"Medical Care": 0.93,
+			"Health Literacy": 0.22,
+			"Access": 0.74,
+			"Environment": 0.49
+		},
+		"Julho": {
+			"Behavior": 0.71,
+			"Social Circumstances": 0.62,
+			"Genetics & Biology": 0.25,
+			"Medical Care": 0.79,
+			"Health Literacy": 0.53,
+			"Access": 0.97,
+			"Environment": 0.16
+		},
+		"Agosto": {
+			"Behavior": 0.59,
+			"Social Circumstances": 0.21,
+			"Genetics & Biology": 0.99,
+			"Medical Care": 0.35,
+			"Health Literacy": 0.49,
+			"Access": 0.59,
+			"Environment": 0.92
+		},
+		"Setembro": {
+			"Behavior": 0.49,
+			"Social Circumstances": 0.87,
+			"Genetics & Biology": 0.5,
+			"Medical Care": 0.93,
+			"Health Literacy": 0.19,
+			"Access": 0.65,
+			"Environment": 0.27
+		},
+		"Outubro": {
+			"Behavior": 0.56,
+			"Social Circumstances": 0.5,
+			"Genetics & Biology": 0.59,
+			"Medical Care": 0.82,
+			"Health Literacy": 0.55,
+			"Access": 0.31,
+			"Environment": 0.78
+		},
+		"Novembro": {
+			"Behavior": 0.24,
+			"Social Circumstances": 0.94,
+			"Genetics & Biology": 0.96,
+			"Medical Care": 0.78,
+			"Health Literacy": 0.86,
+			"Access": 0.55,
+			"Environment": 0.1
+		},
+		"Dezembro": {
+			"Behavior": 0.16,
+			"Social Circumstances": 0.89,
+			"Genetics & Biology": 0.91,
+			"Medical Care": 0.21,
+			"Health Literacy": 0.71,
+			"Access": 0.53,
+			"Environment": 0.98
+		}
+	},
+	"Ano 2016": {
+		"Janeiro": {
+			"Behavior": 0.54,
+			"Social Circumstances": 0.98,
+			"Genetics & Biology": 0.33,
+			"Medical Care": 0.56,
+			"Health Literacy": 0.84,
+			"Access": 0.26,
+			"Environment": 0.27
+		},
+		"Fevereiro": {
+			"Behavior": 0.66,
+			"Social Circumstances": 0.84,
+			"Genetics & Biology": 0.78,
+			"Medical Care": 0.56,
+			"Health Literacy": 0.41,
+			"Access": 0.7,
+			"Environment": 0.2
+		},
+		"Marco": {
+			"Behavior": 0.98,
+			"Social Circumstances": 0.29,
+			"Genetics & Biology": 0.84,
+			"Medical Care": 0.58,
+			"Health Literacy": 0.96,
+			"Access": 0.21,
+			"Environment": 0.87
+		},
+		"Abril": {
+			"Behavior": 0.76,
+			"Social Circumstances": 0.5,
+			"Genetics & Biology": 0.56,
+			"Medical Care": 0.88,
+			"Health Literacy": 0.9,
+			"Access": 0.93,
+			"Environment": 0.2
+		},
+		"Maio": {
+			"Behavior": 0.49,
+			"Social Circumstances": 0.47,
+			"Genetics & Biology": 0.51,
+			"Medical Care": 0.8,
+			"Health Literacy": 0.88,
+			"Access": 0.9,
+			"Environment": 0.73
+		},
+		"Junho": {
+			"Behavior": 0.46,
+			"Social Circumstances": 0.53,
+			"Genetics & Biology": 0.87,
+			"Medical Care": 0.2,
+			"Health Literacy": 0.96,
+			"Access": 0.25,
+			"Environment": 0.27
+		},
+		"Julho": {
+			"Behavior": 0.79,
+			"Social Circumstances": 0.87,
+			"Genetics & Biology": 0.58,
+			"Medical Care": 0.73,
+			"Health Literacy": 0.63,
+			"Access": 0.93,
+			"Environment": 0.95
+		},
+		"Agosto": {
+			"Behavior": 0.94,
+			"Social Circumstances": 0.72,
+			"Genetics & Biology": 0.36,
+			"Medical Care": 0.83,
+			"Health Literacy": 0.87,
+			"Access": 0.76,
+			"Environment": 0.82
+		},
+		"Setembro": {
+			"Behavior": 0.3,
+			"Social Circumstances": 0.81,
+			"Genetics & Biology": 0.4,
+			"Medical Care": 0.61,
+			"Health Literacy": 0.96,
+			"Access": 0.84,
+			"Environment": 0.54
+		},
+		"Outubro": {
+			"Behavior": 0.3,
+			"Social Circumstances": 0.66,
+			"Genetics & Biology": 0.59,
+			"Medical Care": 0.59,
+			"Health Literacy": 0.94,
+			"Access": 0.77,
+			"Environment": 0.21
+		},
+		"Novembro": {
+			"Behavior": 0.57,
+			"Social Circumstances": 0.62,
+			"Genetics & Biology": 0.26,
+			"Medical Care": 0.16,
+			"Health Literacy": 0.22,
+			"Access": 0.62,
+			"Environment": 0.78
+		},
+		"Dezembro": {
+			"Behavior": 0.69,
+			"Social Circumstances": 0.63,
+			"Genetics & Biology": 0.92,
+			"Medical Care": 0.87,
+			"Health Literacy": 0.38,
+			"Access": 0.2,
+			"Environment": 0.72
+		}
+	}
+}

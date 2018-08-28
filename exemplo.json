@@ -1,0 +1,35 @@
+{
+    "Veronica H": {
+        "Ano 2016": {
+            "Janeiro": {
+				"Behavior": 0.9,
+				"Social Circumstances": 0.59,
+				"Genetics & Biology": 0.25,
+				"Medical Care": 0.15,
+				"Health Literacy": 0.67,
+				"Access": 0.99,
+				"Environment": 0.81
+			},
+			"Fevereiro": {
+				"Behavior": 0.15,
+				"Social Circumstances": 0.23,
+				"Genetics & Biology": 0.07,
+				"Medical Care": 0.81,
+				"Health Literacy": 0.39,
+				"Access": 0.84,
+				"Environment": 1
+            }   
+        },
+        "Ano 2017": {
+            "Janeiro": {
+                "Behavior": 0.29
+            },
+            "Fevereiro": {
+                "Behavior": 0.40
+            },
+            "marco": {
+                "Behavior": 0.60
+            }
+        }
+    }
+}
