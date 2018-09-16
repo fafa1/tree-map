@@ -30,9 +30,7 @@ $.getJSON('exemplo.json', function (data) {
             regionP = {
                 id: 'id_' + regionI,
                 name: region,
-                color: Highcharts.getOptions().colors[regionI]
-                //color: Highcharts.getOptions().colors[countryI]
-                
+                //color: Highcharts.getOptions().colors[regionI]
             };
             countryI = 0;
             for (country in data[region]) {
@@ -40,6 +38,7 @@ $.getJSON('exemplo.json', function (data) {
                     countryP = {
                         id: regionP.id + '_' + countryI,
                         name: country,
+                        color: Highcharts.getOptions().colors[countryI],
                         parent: regionP.id
                     };
                     points.push(countryP);
@@ -49,6 +48,7 @@ $.getJSON('exemplo.json', function (data) {
                         mesP = {
                             id: countryP.id + '_' + mesI,
                             name: mes,
+                            // color: Highcharts.getOptions().colors[mesI],
                             parent: countryP.id
                         }
                         points.push(mesP)
@@ -59,6 +59,7 @@ $.getJSON('exemplo.json', function (data) {
                                     id: mesP.id + '_' + causeI,
                                     name: causeName[cause],
                                     parent: mesP.id,
+                                    //color: Highcharts.getOptions().colors[causeI],
                                     value: (+data[region][country][mes][cause])
                                 };
                                 regionVal += causeP.value;
@@ -90,18 +91,51 @@ $.getJSON('exemplo.json', function (data) {
             levels: [{
                 level: 1,
                 dataLabels: {
-                    enabled: true
+                    enabled: true,
+                    color:'black'
+                    
                 },
-                borderWidth: 3
+                borderWidth: 3,
+            }, {
+                level: 2,
+                dataLabels: {
+                    enabled: false,
+                    
+                },
+                colorVariation: {
+                    key: 'brightness',
+                    to: -0.5
+                }
+            },
+            {
+                level: 3,
+                dataLabels: {
+                    enabled: false,
+                    
+                    
+                },
+                colorVariation: {
+                    key: 'brightness',
+                    to: -0.5
+                }
+            }, 
+            {
+                level: 4,
+                dataLabels: {
+                    enabled: false,
+                    
+                },
+                colorVariation: {
+                    key: 'brightness',
+                    to: -0.5
+                }
             }],
             data: points
         }],
         subtitle: {
             text: 'Pacientes'
         },
-        title: {
-            text: 'Visualização de Dados na Saúde'
-        }
+        title: {text: ""}
     });
 
 });
