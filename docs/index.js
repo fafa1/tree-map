@@ -1,3 +1,4 @@
+
 $.getJSON('exemplo.json', function (data) {
 
     let points = [],
@@ -38,7 +39,7 @@ $.getJSON('exemplo.json', function (data) {
                     countryP = {
                         id: regionP.id + '_' + countryI,
                         name: country,
-                        color: Highcharts.getOptions().colors[countryI],
+                        // color: Highcharts.getOptions().colors[countryI],
                         parent: regionP.id
                     };
                     points.push(countryP);
@@ -59,7 +60,7 @@ $.getJSON('exemplo.json', function (data) {
                                     id: mesP.id + '_' + causeI,
                                     name: causeName[cause],
                                     parent: mesP.id,
-                                    //color: Highcharts.getOptions().colors[causeI],
+                                    color: Highcharts.getOptions().colors[causeI],
                                     value: (+data[region][country][mes][cause])
                                 };
                                 regionVal += causeP.value;
